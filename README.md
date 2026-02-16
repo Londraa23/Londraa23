@@ -1,13 +1,63 @@
 # 💫 About Me:
-I'm currently working on different SaaS own projects<br>I'm looking towards to learn Minecraft plugin Development<br>I'm currently learning tons of new things everyday
 
+18 y/o developer focused on multiplayer game server infrastructure and SaaS tooling for live service environments.
+
+Owner of multiple Minecraft network projects, building backend systems, internal tooling, and automation layers for persistent multiplayer ecosystems.
+
+Currently enrolled in DAM (Desarrollo de Aplicaciones Multiplataforma), working on distributed systems, plugin runtime optimization, and real-time service integration.
+
+Main interests:
+
+* Multiplayer backend engineering
+* Plugin development (Paper / Spigot environments)
+* Distributed player data systems
+* Infrastructure automation
+* Queue and matchmaking logic
+* Server-side performance optimization
+* Moderation and analytics SaaS tooling
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Londraa23_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contacto@pabloestevez.es) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Londraa23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Londraa23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Londraa23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/Londraa23_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:contacto@pabloestevez.es)
+
+# 🧠 Core Stack:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+# ⚙️ Featured Projects:
+
+### 🔹 AegisCore
+
+Modular protection framework for Minecraft servers focused on packet-level exploit mitigation and abnormal behavior detection.
+
+### 🔹 LumaSync
+
+Real-time player data synchronization service using Redis-based messaging and async persistence layers across server instances.
+
+### 🔹 SentinelQueue
+
+Dynamic queue balancing and matchmaking system with adaptive latency compensation for networked environments.
+
+### 🔹 ForgeMetrics
+
+SaaS analytics platform for gameplay telemetry, retention tracking, and live performance diagnostics.
+
+# 🧩 Engineering Focus:
+
+* Event-driven architecture
+* Microservice-oriented plugin design
+* Runtime performance optimization
+* Tick-safe async processing
+* Fault-tolerant player data handling
+* Separation of gameplay logic and infrastructure
+* Observability-first system design
+* Low-overhead runtime execution
