@@ -33,24 +33,6 @@ Main interests:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
 
-# ⚙️ Featured Projects:
-
-### 🔹 AegisCore
-
-Modular protection framework for Minecraft servers focused on packet-level exploit mitigation and abnormal behavior detection.
-
-### 🔹 LumaSync
-
-Real-time player data synchronization service using Redis-based messaging and async persistence layers across server instances.
-
-### 🔹 SentinelQueue
-
-Dynamic queue balancing and matchmaking system with adaptive latency compensation for networked environments.
-
-### 🔹 ForgeMetrics
-
-SaaS analytics platform for gameplay telemetry, retention tracking, and live performance diagnostics.
-
 # 🧩 Engineering Focus:
 
 * Event-driven architecture
