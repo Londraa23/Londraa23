@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/dd/43/28/dd4328dbd75d1d46c75b0168093da77c.jpg" width="700" alt="Banner">
+</p>
+
 # 💫 About Me:
 18 y/o developer focused on multiplayer game server infrastructure and SaaS tooling for live service environments.
 Owner of multiple Minecraft network projects, building backend systems, internal tooling, and automation layers for persistent multiplayer ecosystems.
